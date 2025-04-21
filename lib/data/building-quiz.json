@@ -1,0 +1,168 @@
+{
+  "quiz": {
+    "title": "Building Plan Knowledge Quiz",
+    "description": "Test your knowledge of building plans, construction specifications, and compliance requirements.",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is the minimum thickness specified for the reinforced concrete slab foundation in the main building?",
+        "options": [
+          {
+            "id": "q1_a",
+            "text": "100mm",
+            "isCorrect": false
+          },
+          {
+            "id": "q1_b",
+            "text": "150mm",
+            "isCorrect": true
+          },
+          {
+            "id": "q1_c",
+            "text": "200mm",
+            "isCorrect": false
+          },
+          {
+            "id": "q1_d",
+            "text": "250mm",
+            "isCorrect": false
+          },
+          {
+            "id": "q1_e",
+            "text": "300mm",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The main building utilizes a reinforced concrete slab foundation with a minimum thickness of 150mm, as specified in the Foundation Design Document."
+      },
+      {
+        "id": "q2",
+        "question": "Which electrical safety regulation does the building's electrical system comply with?",
+        "options": [
+          {
+            "id": "q2_a",
+            "text": "16th Edition of the IEE Wiring Regulations",
+            "isCorrect": false
+          },
+          {
+            "id": "q2_b",
+            "text": "17th Edition of the IEE Wiring Regulations",
+            "isCorrect": false
+          },
+          {
+            "id": "q2_c",
+            "text": "18th Edition of the IEE Wiring Regulations (BS 7671:2018+A1:2020)",
+            "isCorrect": true
+          },
+          {
+            "id": "q2_d",
+            "text": "19th Edition of the IEE Wiring Regulations",
+            "isCorrect": false
+          },
+          {
+            "id": "q2_e",
+            "text": "National Electrical Code (NEC) 2020",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The electrical system complies with the 18th Edition of the IEE Wiring Regulations (BS 7671:2018+A1:2020), which includes RCD protection for all circuits."
+      },
+      {
+        "id": "q3",
+        "question": "What type of insulation is specified for the exterior walls of the building?",
+        "options": [
+          {
+            "id": "q3_a",
+            "text": "Expanded Polystyrene (EPS)",
+            "isCorrect": false
+          },
+          {
+            "id": "q3_b",
+            "text": "Mineral Wool",
+            "isCorrect": false
+          },
+          {
+            "id": "q3_c",
+            "text": "Polyisocyanurate (PIR) boards",
+            "isCorrect": true
+          },
+          {
+            "id": "q3_d",
+            "text": "Extruded Polystyrene (XPS)",
+            "isCorrect": false
+          },
+          {
+            "id": "q3_e",
+            "text": "Spray Foam Insulation",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "Exterior walls feature a multi-layer insulation system consisting of 100mm rigid polyisocyanurate (PIR) boards with a thermal conductivity of 0.022 W/mK."
+      },
+      {
+        "id": "q4",
+        "question": "What is the fire resistance rating of the compartmentation walls between different usage areas?",
+        "options": [
+          {
+            "id": "q4_a",
+            "text": "30 minutes",
+            "isCorrect": false
+          },
+          {
+            "id": "q4_b",
+            "text": "45 minutes",
+            "isCorrect": false
+          },
+          {
+            "id": "q4_c",
+            "text": "60 minutes",
+            "isCorrect": true
+          },
+          {
+            "id": "q4_d",
+            "text": "90 minutes",
+            "isCorrect": false
+          },
+          {
+            "id": "q4_e",
+            "text": "120 minutes",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The building incorporates fire-resistant compartmentation with 60-minute fire-rated walls and floors between different usage areas, in compliance with Building Regulations Part B."
+      },
+      {
+        "id": "q5",
+        "question": "What is the minimum door width required for accessibility compliance in the building?",
+        "options": [
+          {
+            "id": "q5_a",
+            "text": "750mm",
+            "isCorrect": false
+          },
+          {
+            "id": "q5_b",
+            "text": "800mm",
+            "isCorrect": false
+          },
+          {
+            "id": "q5_c",
+            "text": "850mm",
+            "isCorrect": false
+          },
+          {
+            "id": "q5_d",
+            "text": "900mm",
+            "isCorrect": true
+          },
+          {
+            "id": "q5_e",
+            "text": "1000mm",
+            "isCorrect": false
+          }
+        ],
+        "explanation": "The building design complies with Accessibility Regulations and Building Regulations Part M, with door widths having a minimum 900mm clear opening with accessible thresholds not exceeding 15mm height."
+      }
+    ]
+  }
+}
